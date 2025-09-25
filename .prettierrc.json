@@ -1,5 +1,5 @@
 {
-  "arrowParens": "awoid",
+  "arrowParens": "avoid",
   "bracketSpacing": true,
   "htmlWhitespaceSensitivity": "css",
   "insertPragma": false,
