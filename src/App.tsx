@@ -1,12 +1,18 @@
 import './styles/themes.css';
 import './styles/global.css';
+import { Container } from './components/Container';
 import { Heading } from './components/Heading';
 
 export function App() {
   return (
     <>
-      <Heading>Ola Mundo </Heading>
-      <Heading>Ola Mundo </Heading>
+      <Container>
+        <Heading>Logo</Heading>
+      </Container>
+
+      <Container>
+        <Heading>Menu</Heading>
+      </Container>
     </>
   );
 }
