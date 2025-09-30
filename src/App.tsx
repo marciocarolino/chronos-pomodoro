@@ -31,7 +31,7 @@ export function App() {
           <div className="formRow">
             <DefaultInput
               placeholder="Digite algo"
-              labelText="Task"
+              labelText='task'
               id="meuInput"
               type="text"
             />
